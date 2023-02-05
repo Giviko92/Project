@@ -1,0 +1,39 @@
+.payment{
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 42px;
+    color: #333333;
+}
+.refund-div{
+    background: rgba(239, 242, 252, 1);
+    border-radius: 13.8677px;
+    right:-96px;
+    width:unset!important;
+
+}
+.list{
+    background: rgba(239, 242, 252, 1);
+    border-radius: 13.8677px;
+    height: 70px;
+    font-weight:700;
+    font-style: normal;
+}
+.refund-list{
+    background: rgba(239, 242, 252, 1);
+    border-radius: 13.8677px;
+    height: 70px;
+    font-style: normal;
+
+}
+.ellipse-image{
+    width: unset!important;
+}
+.refund{
+    color:white;
+    background:#FF626F ;
+    border-radius: 11px;
+    width: 100px;
+    border: none;
+}
+
+
